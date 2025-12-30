@@ -17,6 +17,10 @@ local note = "Created by Crock, join discord to report bugs/suggestions" -- Put 
 
 -- Don't touch the rest of the script or it will break.
 
+-- 9/6/2025 1:35AM
+
+print("developed by yourhelpfulscripter on youtube")
+
 --[=[
  d888b  db    db d888888b      .d888b.      db      db    db  .d8b.  
 88' Y8b 88    88   `88'        VP  `8D      88      88    88 d8' `8b 
