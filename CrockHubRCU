@@ -1,3 +1,4 @@
+local Key = "" -- enter your key here
 local KeyLink = "https://work.ink/2cbE/crock-hub-rcu-cp12"
 
 local function ScriptHere()
