@@ -1,4 +1,4 @@
-local Key = "cd81edbc-4771-4647-8cfc-4bb890e1fefc" -- enter your key here
+local Key = "cd81edbc-4771-4647-8cfc-4bb890e1fefc" -- fake key, crashes the game xd
 local KeyLink = "https://work.ink/2cbE/crock-hub-rcu-2-1"
 
 local function ScriptHere()
