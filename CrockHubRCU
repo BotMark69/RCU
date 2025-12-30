@@ -1,4 +1,4 @@
-local KeyLink = "https://work.ink/2cbE/crock-hub-rcu-cp12"
+local KeyLink = "https://work.ink/2cbE/crock-hub-rcu-2-1"
 
 local function ScriptHere()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/BotMark69/holder/refs/heads/main/rcuholder"))()
